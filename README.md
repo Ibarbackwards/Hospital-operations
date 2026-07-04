@@ -308,7 +308,11 @@ Based on the analysis, the following recommendations are proposed:
 > Add screenshots of **Dashboard 1** and **Dashboard 2** here after uploading them to your repository.
 
 ```markdown
+### Dashboard 1 – Hospital Overview
+
 ![Dashboard 1](dashboard1.png)
+
+### Dashboard 2 – Operational Performance
 
 ![Dashboard 2](dashboard2.png)
 ```
