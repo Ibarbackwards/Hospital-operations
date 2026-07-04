@@ -305,9 +305,7 @@ Based on the analysis, the following recommendations are proposed:
 
 # 📷 Dashboard Preview
 
-> Add screenshots of **Dashboard 1** and **Dashboard 2** here after uploading them to your repository.
 
-```markdown
 ### Dashboard 1 – Hospital Overview
 
 ![Dashboard 1](dashboard1.png)
@@ -315,7 +313,7 @@ Based on the analysis, the following recommendations are proposed:
 ### Dashboard 2 – Operational Performance
 
 ![Dashboard 2](dashboard2.png)
-```
+
 
 ---
 
